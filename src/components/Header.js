@@ -12,6 +12,10 @@ class Header extends Component {
           <div className="fw7 mr1">React Apollo</div>
           <Link to="/" className="ml1 no-underline black">
             new
+            <Link to="/top" className="ml1 no-underline black">
+  top
+</Link>
+<div className="ml1">|</div>
           </Link> <Link to="/search" className="ml1 no-underline black">
     search
   </Link>
